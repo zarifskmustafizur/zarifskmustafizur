@@ -9,7 +9,7 @@ I'm a driven Computer Science student with a passion for tackling complex techni
 * 🌍  I'm based in London
 * ✉️  You can contact me at [zarifskmustafizur@gmail.com](mailto:zarifskmustafizur@gmail.com)
 * 🧠  I'm learning C and C++
-* 🤝  I'm open to collaborating on Projects
+* 🤝  I'm open to collaborating on Projects and Startups
 
 ### Skills
 
